@@ -1,0 +1,95 @@
+body {
+    margin:0 auto;
+    box-sizing: border-box;
+    padding:0;
+}
+h5 {
+    font-weight:normal!important;
+}
+ .container {
+
+    width: 100%;
+    margin: auto;
+    
+ }
+ .logo {
+   text-align: center;
+    
+ }
+.searchBox {
+
+    width: 90%;
+    height: auto;
+    background-color:#eeeeee;
+    text-align: center;
+    margin:0 auto;
+    
+}
+.searchBox input {
+    display: block;
+    margin:0 auto;
+    width:18%;
+    padding:0;
+
+}
+button {
+
+    margin-right:2px;
+
+}
+
+.firstP {
+    margin-top:2px;
+    display: block;
+    margin-bottom:0;
+}
+.secBox {
+    margin: 2px auto;
+    width: 90%;
+    text-align: center;
+    height: 20px;
+}
+
+.specialBox {
+    width: 35%;
+    float:left;
+    background-color:#7ee5da;
+    margin: auto;
+    padding:8px;
+    margin-right:2px;
+    height: 60px;
+}
+.link {
+    display: block;
+    color:#0162c4;
+}
+.linkBox {
+    width:20%;
+    float:left;
+    background-color:#70ccc2;
+    padding:2px;
+    font-size: 13.5px;
+    height: 71px;
+}
+.searchButton {
+    display: inline-block;
+}
+input {
+    display: block;
+    margin:0 auto;
+    padding:0;
+}
+.clear {
+    clear:both;
+}
+.inputBox {
+    float:left;
+    width:43%;
+    background-color:#62b3aa;
+    margin-left:2px;
+    font-size:11.8px;
+    height: 75px;
+}
+.copy {
+    text-align: center;
+}
